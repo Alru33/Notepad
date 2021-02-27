@@ -1,3 +1,1 @@
-<p align="center">
-![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1")
-</p>
+![Иллюстрация к проекту](https://github.com/Alru33/notepad/blob/main/image/notepad.png)
